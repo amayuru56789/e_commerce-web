@@ -23,3 +23,25 @@ body{
     right: 10px;
     border-radius: 100px / 10px;
 }
+
+.common-form{
+    text-align: center;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 300px;
+}
+
+.form-input{
+    height: 35px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border: 1px solid aqua;
+    color: aqua;
+}
+
+.form-button{
+    height: 35px;
+    border: 1px solid aqua;
+    cursor: pointer;
+}
